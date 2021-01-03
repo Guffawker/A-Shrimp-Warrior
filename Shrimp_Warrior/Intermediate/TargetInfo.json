@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealMatch3",
+			"Path": "C:\\Users\\Guffawker\\Documents\\GitHub\\A-Shrimp-Warrior\\Shrimp_Warrior\\Source\\UnrealMatch3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealMatch3Editor",
+			"Path": "C:\\Users\\Guffawker\\Documents\\GitHub\\A-Shrimp-Warrior\\Shrimp_Warrior\\Source\\UnrealMatch3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
