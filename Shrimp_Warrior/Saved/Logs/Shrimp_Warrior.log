@@ -917,3 +917,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.08-09.37.08:760][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2021.01.08-09.37.21:244][755]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.01.08-09.37.24:454][755]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.08-09.40.18:070][768]LogSlate: Window 'Save Level As' being destroyed
+[2021.01.08-09.40.22:727][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.01.08-09.40.22:762][ 45]LogSavePackage: Moving '../../../../../../Users/12512/Documents/GitHub/A-Shrimp-Warrior/Shrimp_Warrior/Saved/GameLevelBAD37D0E4549DD39B88E1983E586FFD3.tmp' to '../../../../../../Users/12512/Documents/GitHub/A-Shrimp-Warrior/Shrimp_Warrior/Content/Maps/GameLevel.umap'
+[2021.01.08-09.40.22:783][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameLevel_BuiltData" FILE="../../../../../../Users/12512/Documents/GitHub/A-Shrimp-Warrior/Shrimp_Warrior/Content/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2021.01.08-09.40.22:794][ 45]LogSavePackage: Moving '../../../../../../Users/12512/Documents/GitHub/A-Shrimp-Warrior/Shrimp_Warrior/Saved/GameLevel_BuiltDataDF53870740B7C4FC0DEE10B474B91FC1.tmp' to '../../../../../../Users/12512/Documents/GitHub/A-Shrimp-Warrior/Shrimp_Warrior/Content/Maps/GameLevel_BuiltData.uasset'
+[2021.01.08-09.40.22:804][ 45]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.08-09.40.22:804][ 45]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/GameLevel_BuiltData.GameLevel_BuiltData
+[2021.01.08-09.40.22:804][ 45]LogContentValidation: Display: Validating World /Game/Maps/GameLevel.GameLevel
